@@ -2,7 +2,8 @@
 
 Este repositório mostra o passo a passo para criar um **Tsuru**, um dos origamis mais tradicionais do Japão, símbolo de paz, esperança e longevidade.
 
-📹
+📹 **[Clique aqui para assistir ao vídeo com o tutorial](#)**  
+*(https://youtu.be/yO9CI_B7XiU)*
 ---
 
 ## ✂️ Materiais Necessários
